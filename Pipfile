@@ -9,6 +9,7 @@ ipykernel = "*"
 [packages]
 sklearn = "*"
 matplotlib = "*"
+pickle = "*"
 
 [requires]
 python_version = "3.7"
